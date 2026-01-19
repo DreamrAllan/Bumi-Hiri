@@ -16,4 +16,10 @@
     "@vitejs/plugin-vue": "^5.0.0",
     "vite": "^5.0.0"
   }
+  {
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install"
+}
 }
