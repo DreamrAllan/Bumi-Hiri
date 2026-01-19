@@ -63,7 +63,6 @@
 const allActivities = [
   {
     id: 1,
-    icon: '🤿',
     name: 'Scuba Diving',
     level: 'Menengah',
     description: 'Jelajahi dunia bawah laut Pulau Hiri yang spektakuler dengan soft coral berwarna-warni dan beragam spesies marine life. Spot diving Tomajiko dan Tafraka menawarkan visibilitas hingga 30 meter dengan kesempatan bertemu penyu, hiu, dan bahkan dugong.',
@@ -75,7 +74,6 @@ const allActivities = [
   },
   {
     id: 2,
-    icon: '🏊',
     name: 'Snorkeling Tour',
     level: 'Pemula',
     description: 'Aktivitas santai untuk menikmati keindahan terumbu karang dan marine life di perairan dangkal. Cocok untuk pemula dan keluarga. Terumbu karang di depan desa utama menghadap Ternate menawarkan pemandangan penyu dan hiu karang.',
@@ -87,7 +85,6 @@ const allActivities = [
   },
   {
     id: 3,
-    icon: '🥾',
     name: 'Hiking Gunung Hiri',
     level: 'Menengah',
     description: 'Trek menantang menuju puncak gunung berapi tidak aktif dengan panorama laut Maluku dan pulau-pulau sekitar yang memukau. Trek sunrise sangat direkomendasikan untuk pengalaman magical.',
@@ -99,7 +96,6 @@ const allActivities = [
   },
   {
     id: 4,
-    icon: '🚣',
     name: 'Island Hopping',
     level: 'Pemula',
     description: 'Jelajahi pulau-pulau kecil di sekitar Hiri dengan perahu tradisional sambil menikmati pemandangan spektakuler. Kunjungi spot-spot tersembunyi dan nikmati picnic di pantai terpencil.',
